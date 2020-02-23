@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1c3ff9cfeb5c57949ad9791e4e70e06e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - reminderPopOutPanel: {fileID: 8772266837419706633, guid: c34f625283b89ef4da62721137578063,
+      type: 3}
+  - msg_panel: {fileID: 6765857581417003427, guid: 2916e056abb3fd545b23967d653bda7c,
+      type: 3}
+  - sendingDataPanel: {fileID: 1552771726291290846, guid: ffdd0e1582aaa674d8ff71c39fb0f843,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

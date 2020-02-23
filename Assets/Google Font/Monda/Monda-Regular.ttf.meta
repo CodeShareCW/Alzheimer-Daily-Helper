@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b1c6d2eb5de50d4419ce64800d06efde
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Monda
+  fontNames:
+  - Monda
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b0c586c3fe0d7644c98c0cc740872241, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 657dded6d31eeba438f18790b13b3458
+  - enabled: 1
+    path: Assets/Scenes/Launching Scene/Entry Scene.unity
+    guid: d3d05b04bc02828499faf9ae9b3ad9cf
+  - enabled: 1
+    path: Assets/Scenes/Launching Scene/Register Scene.unity
+    guid: 5a7c2084352a5804394a126d4c4a6ddc
+  - enabled: 1
+    path: Assets/Scenes/Launching Scene/Login Scene.unity
+    guid: deea04d8213763c46a7f56a8f62ceb98
+  - enabled: 1
+    path: Assets/Scenes/Launching Scene/Home Scene.unity
+    guid: 7be95ffa0af010a4d971f3637f73adde
+  - enabled: 1
+    path: Assets/Scenes/Fill My Brain/FillMyBrain Scene.unity
+    guid: ad334852817fbeb4298ffee1823d6a67
+  - enabled: 1
+    path: Assets/Scenes/WhoAreYou/WhoAreYou Scene.unity
+    guid: dc751baa254463344a212f1c7836de5d
+  - enabled: 1
+    path: Assets/Scenes/HelloToday/HelloToday Scene.unity
+    guid: 5c76ef8941779c54b8f3a27e0f8bfb3f
+  - enabled: 1
+    path: Assets/Scenes/FlashCard/Add Flashcard Scene.unity
+    guid: 5782db26460ff1e4486c734e44cf7d33
+  - enabled: 1
+    path: Assets/Scenes/FlashCard/Flashcard List Scene.unity
+    guid: e8d6304fc91f453409aa18eb465abf92
+  - enabled: 1
+    path: Assets/Scenes/Training/Training Scene.unity
+    guid: 34c8cb0071b170e4284696398e69d5e0
+  - enabled: 1
+    path: Assets/Scenes/Training/Duet Scene.unity
+    guid: d18bc9aa7ed1def47b50c671acbdacdd
+  - enabled: 1
+    path: Assets/Scenes/Training/ISay Scene.unity
+    guid: c304f6215a72d0348950b5be20379dc5
+  - enabled: 1
+    path: Assets/Scenes/Caregiver/Caregiver Main Scene.unity
+    guid: e9e056d3ed69afe47b720463603ec986
+  - enabled: 1
+    path: Assets/Scenes/Caregiver/Caregiver Upload Image Scene.unity
+    guid: bca5744343dffdc4799b5ad4f1a46a7c
+  - enabled: 1
+    path: Assets/Scenes/Caregiver/Caregiver Show Image Uploaded Scene.unity
+    guid: e13700732e445894b990e5c97a3d7aa9
+  - enabled: 1
+    path: Assets/Scenes/Caregiver/Caregiver Show Reminder Scene.unity
+    guid: 2bd23dd10e567154190b95ba93f77827
+  - enabled: 1
+    path: Assets/Scenes/Caregiver/Caregiver Add Reminder Scene.unity
+    guid: edc9407601c9ebb46bc05829b6c8da8c
+  - enabled: 1
+    path: Assets/Scenes/Leaderboard/Leaderboard Duet Scene.unity
+    guid: 595e83f7bcac5f045a1bbd595ca66d4b
+  - enabled: 1
+    path: Assets/Scenes/Leaderboard/Leaderboard ISay Scene.unity
+    guid: 23bac9409438a834690a10bf72557e33
+  - enabled: 1
+    path: Assets/Scenes/Achievement/Achievement Scene.unity
+    guid: 8a27e10be5b757041aba9c062dcedabc
+  - enabled: 1
+    path: Assets/Scenes/Profile/Profile Scene.unity
+    guid: 1071abdd64f3eb045a7cc8ba7e88c9cc
+  - enabled: 0
+    path: Assets/SimpleAndroidNotifications/DemoScene.unity
+    guid: 04bafa369dbac00478feecb96bf71f90
+  m_configObjects: {}

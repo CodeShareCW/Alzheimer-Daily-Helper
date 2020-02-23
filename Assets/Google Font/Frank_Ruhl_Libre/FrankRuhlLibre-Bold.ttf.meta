@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: ad8ea01839fc6ff4bab637d856a03e12
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Frank Ruhl Libre
+  fontNames:
+  - Frank Ruhl Libre
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8ec4d9a6f1188b146b08890e332c015b, type: 3}
+  - {fileID: 12800000, guid: 801af24814cf1ca4d8d1509b1da808d7, type: 3}
+  - {fileID: 12800000, guid: 2bf86bfee1b517843a66e54251912f85, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
