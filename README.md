@@ -2,4 +2,4 @@
 An Android App for Alzheimer Patient
 
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![AZH](https://img.youtube.com/vi/L7tRtDABuiI/0.jpg)](https://www.youtube.com/watch?v=L7tRtDABuiI "Alzheimer Daily Helper")
