@@ -1,5 +1,5 @@
 # Alzheimer-Daily-Helper
 An Android App for Alzheimer Patient
 
-[![AZH](https://i9.ytimg.com/vi/L7tRtDABuiI/mq2.jpg?sqp=CLPpz_IF&rs=AOn4CLBKrASVZI3aJ5qO1OvzTPddU7L5hw)](https://www.youtube.com/embed/L7tRtDABuiI)
 
+[![AZH](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=L7tRtDABuiI)
